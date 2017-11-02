@@ -1,0 +1,46 @@
+<section id="professional">
+  <!-- <div class="row">
+    <div class="three columns">
+      <h2>Students</h2>
+    </div>
+    <div class="nine columns">
+      <h2>Students</h2>
+    </div>
+  </div>
+  <br> -->
+  {% for i in site.data.students %}
+  <div class="row">
+
+    <div class="three columns main-col text-center">
+      <img src="images/{{ i.profile }}" alt="" />
+      <br>
+      <br>
+    </div>
+
+    <!-- <hr class="six columns centered">
+    <div class="twelve columns">
+      <br>
+    </div> -->
+    <div class="nine columns">
+
+
+        <h2>{{ i.name }}</h2>
+
+        <hr/>
+
+        <p>Interests : {{ i.interests }}
+          <br> Contacts : {{ i.contact }}</p>
+    </div>
+    <div class="twelve columns centered">
+      <br>
+    </div>
+    <div class="twelve columns centered">
+      <br>
+    </div>
+    <!-- <div class="twelve columns centered">
+      <hr>
+    </div> -->
+
+  </div>
+  {% endfor %}
+</section>

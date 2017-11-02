@@ -1,0 +1,30 @@
+<!-- Header ================================================== -->
+<header id="home">
+
+  {% include nav.html %}
+
+  <div class="row banner">
+    <div class="banner-text">
+      <h1>{{ site.data.home.title }}</h1>
+      <h3>{{ site.data.home.text }}</h3>
+      <hr />
+      <ul class="social">
+        {% for social in site.data.home.social %}
+        <li>
+          <a href="{{ social.href }}">
+            <i class="fa fa-{{ social.name }}"></i>
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+  <p class="scrolldown">
+    <a class="smoothscroll" href="#about">
+      <i class="icon-down-circle"></i>
+    </a>
+  </p>
+
+</header>
+<!-- Header End -->

@@ -1,0 +1,35 @@
+<section id="professional">
+  <div class="row">
+
+    <div class="three columns main-col text-center">
+      <h1>
+        <!-- <span>Professional Activities</span> -->
+      </h1>
+    </div>
+
+    <div class="nine columns main-col">
+        <h2>Professional Activities</h2>
+      {% for activity in site.data.professional-activities %}
+      <div class="row item">
+
+        <div class="twelve columns">
+          <h3>{{ activity.title }}</h3>
+
+            <ul>
+              {% for detail in activity.detail %}
+                <li>{{ detail.item }}</li>
+              {% endfor %}
+            </ul>
+
+        </div>
+
+      </div>
+      <!-- item end -->
+      {% endfor %}
+
+    </div>
+    <!-- main-col end -->
+
+  </div>
+  <!-- End Education -->
+</section>

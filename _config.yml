@@ -1,0 +1,218 @@
+title: 'Intelligent Software & Natural Language Processing Laboratory'
+url: 'https://nlpswkang.github.io'
+baseurl: ''
+
+update: 'oct, 2017'
+
+nav:
+- name: 'Home'
+  href: '#home'
+- name: 'Member'
+  href: '#about'
+- name: 'Research'
+  href: '#research'
+- name: 'Projects'
+  href: '#projects'
+- name: 'Publications'
+  href: '#publications'
+
+data:
+  home:
+    title: 'Intelligent Software<br>&<br>Natural Language Processing Laboratory'
+    text: ''
+    social:
+    - name: 'facebook'
+      href: '#'
+    - name: 'twitter'
+      href: '#'
+    - name: 'google-plus'
+      href: '#'
+    - name: 'linkedin'
+      href: '#'
+    - name: 'instagram'
+      href: '#'
+    - name: 'dribbble'
+      href: '#'
+    - name: 'skype'
+      href: '#'
+
+  about:
+    name: 'Sangwoo Kang, Ph.d.'
+    profile: 'profile_swkang_1.jpg'
+    bio: He is an assistant professor in <b>the Department of Software at Gachon University</b> since September 2016. He got his Ph.D in Computer Science at Sogang University, where he was also a Research Fellow Professor. His specialty is <b>Natural Language Processing</b>, and he is interested in spoken dialogue interface, information retrieval, text mining, opinion mining, big data, and UI/UX. His recent focus has been in applying <b>Deep Learning</b> techniques to his research. Currently, he is leading <b>Intelligent Software & Natural Language Processing Laboratory</b> at Gachon University.
+    address: '#430 Main Library Building<br>1342 Seongnam-daero, Sujeong-gu, Seongnam-si, Gyeonggi-do<br>13120, Republic of Korea'
+    phone: +82-031-750-8669
+    email: swkang@gachon.ac.kr
+  
+  research:
+  - title: Spoken Dialogue Interface / UI-UX / Natural Language Processing
+    detail:
+    - item: Dialogue System using (Deep) Machine Learning for Robot/Vehicle and Mobile
+    - item: Dialogue and Discourse Management
+    - item: Speech Acts / Action Classification
+    - item: Name-entity Recognition
+    - item: Post Correction for Automatic Speech Recognition
+  - title: Text Classification / Information Retrieval
+    detail:
+    - item: Text Classification Based on Unsupervised Learning / Supervised Learning
+    - item: Clustering
+    - item: Semantic Search with Wikipedia
+  - title: Opinion Mining
+    detail:
+    - item: Comparison Mining
+    - item: Sentimental Classification
+ 
+  experience:
+  - position: Assistant Professor
+    department: Software
+    school: Gachon University
+    date: Aug 2016 ~ Present
+  - position: Research Fellow Professor
+    department: Computer Science
+    school: Sogang University
+    date: Feb 2013 ~ July 2016
+  - position: Research Professor
+    department: Computer Science and Engineering
+    school: Sogang University
+    date: Sep 2012 ~ Jan 2013
+  - position: Instructor
+    department: Computer Science and Engineering
+    school: Sogang University
+    date: Mar 2005 ~ Aug 2011
+
+  professional-activities:
+  - title: Program Committee Member
+    detail:
+    - item: Annual Conference on Human & Cognitive Language Technology (2014 ~)
+    - item: Korea Computer Congress (2015 ~)
+  - title: 'Journal Reviewer'
+    detail:
+    - item: Korean Institute of Information Scientists and Engineers (2014 ~)
+    - item: Korean Society of Cognitive Science (2014 ~)
+
+  awards:
+  - title: 2017 국어정보처리 시스템 경진대회 대상 (문화체육관광부 장관상)
+
+  teaching:
+  - item: 'Robotics: 2017 autumn, 2016 autumn'
+  - item: 'Computer Security: 2017 autumn, 2016 autumn'
+  - item: 'Data Mining : 2017 spring'
+  - item: 'Web Programing : 2017 spring'
+
+  students: # 학생정보수정
+  - name: 'Kyung-Chul Cho, MS Student (Candidate)'
+    profile: 'image.jpg'
+    interests: NLP
+    contact: aaa@gc.gachon.ac.kr
+
+  projects:
+  - item: 2017 ~ Present, Principal Investigator, “유사도 측정 기법을 이용한 FAQ 시스템 개발,” Supported by Hyundai Motor.
+  - item: 2017 ~ Present, Principal Investigator, “영어사전용 식별 및 중의어 해소개발 기술,” Supported by Citrus EduTech.
+  - item: 2017 ~ Present, Principal Investigator, “사용자 적응형 어체 변환을 위한 형태소 합성 기술 연구,” by Sogang University.
+  - item: 2016 ~ Present, Co-Principal Investigator, “Development of Distant Speech Recognition and Multi- Task Dialog Processing Technologies for In-Door Conversational Robots,” Supported by Ministry of Commerce, Industry and Energy.
+  - item: 2016 ~ Present, Principal Investigator, “Development of Intelligent Dialogue Interface for The IoT Environment,” Supported by National Research Foundation of Korea.
+  - item: 2013 ~ 2016, Principal Investigator, “The Technology Development of Dialogue Management for Virtual Personal Assistant Services of Smart devices,” Supported by National Research Foundation of Korea.
+  - item: 2012 ~ 2015, Co-Principal Investigator (Chief Developer), “The Original Technology Development of Interactive Intelligent Personal Assistant Software for the Information Service on multiple domains,” Supported by Ministry of Knowledge Economy.
+  - item: 2009 ~ 2013, Co-Principal Investigator (Chief Developer), “Developing Spoken Dialogue Interface Technologies or Intelligent Talking Companion Robots by Integrating Voice/Image Information and Workbench toolkits,” Supported by Ministry of Knowledge Economy.
+  - item: 2011 ~ 2012, Researcher, “QA Solution for Personal information Using Wikipedia,” Supported by LG Electronics.
+  - item: 2010 ~ 2012, Researcher, “Development of Speech Synthesizer and AAC Software for the Visually and Vocally impaired,” Supported by Ministry of Knowledge Economy
+  - item: 2010 ~ 2010, Researcher, “Development of Word Suggestion Technology Considering Input Errors in Mobile Devices,” Supported by Samsung Electronics.
+  - item: 2009 ~ 2012, Researcher, “Development of Intelligent Spoken Dialogue Interface for Mobile Devices,” Supported by National Research Foundation of Korea.
+  - item: 2006 ~ 2009, Researcher, “The Development of Interaction Techniques for Intelligent Robots,” Supported by Ministry of Commerce, Industry and Energy.
+  - item: 2006 ~ 2006, Researcher, “Technique Acceleration for SKT 1mm Service,” SK Telecom.
+  - item: 2003 ~ 2006, Researcher, “The Development of Spoken Dialogue Interface Technique for Silver Mate,” Supported by Ministry of Commerce, Industry and Energy.
+  - item: 2004 ~ 2006, Research Assistant, “The Development of a Machine Self Growth Model Based on Brain Information Processing,” Supported by Ministry of Commerce, Industry and Energy.
+  - item: 2004 ~ 2004, Researcher, “The Development of a Multi Domain Dialogue Model for an Intelligent Robot System,” Supported by ETRI.
+  - item: 2003 ~ 2005, Researcher, “A Study on Development of Dialog-based Information Retrieval and Question/Answering System based on Thesaurus,” Supported by Korea Science and Engineering Foundation.
+
+  transfer:
+  - item: 2015 ~ 2017, Co-Principal Investigator, “Dialogue Management and Language Understanding Technique for dialogue Interface in Vehicle Environment,” Hyundai Motor.
+  - item: 2014, Co-Principal Investigator, “Spoken Dialogue Interface Technique for multi domain,” SK Telecom.
+
+  patents:
+  - item: 2017.04.03, Sangwoo Kang et al., “지식베이스를 이용한 개체명 인식 코퍼스 생성 및 방법,” Domestic Patent
+  - item: 2017.03.06, Sangwoo Kang et al., “문서 감정 분류용 딥러닝 인코딩 장치 및 방법,” Domestic Patent
+  - item: 2017.02.27, Sangwoo Kang et al., “마이크로 블로그의 개체명 링킹 시스템,” Domestic Patent
+  - item: 2016.01.27, Sangwoo Kang et al., “채팅 데이터 학습 및 서비스 방법 및 그에 따른 시스템,” Domestic Patent
+  - item: 2015.12.24, Sangwoo Kang et al., “기계학습을 이용한 음성인식방법,” Domestic Patent
+  - item: 2014, Sangwoo Kang et al., “Data Learning and Service Methods for a Chatting System,” International Patent Pending (PCT)
+  - item: 2014, Sangwoo Kang et al., “Voice Recognition Method Using Machine Learning,” International Patent Pending (USA)
+
+  publications:
+    - title: Journal Publications
+      list:
+      - item: Sangwoo Kang, (2017), “Graph-Based Word Sense Disambiguation Using Iterative Approach,”Journal of Korean Institute of Next Generation Computing. (in Korean)
+        tag: KCI
+      - item: 'Sunjea Kwon, Juae Kim, Sangwoo Kang(Corresponding Author), Jungyun Seo, (2017), “An Attention Method-based Deep Learning Encoder for the Sentiment Classification of Documents,” Journal of Korean Institute of Information Scientists and Engineers: Software and Applications. (in Korean)'
+        tag: KCI
+      - item: Soyoon Jeong, Youngmin Park, Sangwoo Kang(Corresponding Author), Jungyun Seo, (2016) Entity linking for Tweets using user model and real-time news stream,” Cognitive Science. (in Korean)
+        tag: KCI
+      - item: Youngmin Park, Sangwoo Kang(Corresponding Author), Jungyun Seo, (2016), “A Generation of a Corpus for Named-entity Recognition Using Knowledge Bases,” Cognitive Science. (in Korean)
+        tag: KCI
+      - item: Youngmin Park, Sangwoo Kang(corresponding author), Jungyun Seo (2016), “Information Extraction Using Distant Supervision and Semantic Similarities,” Advances in Electrical and Computer Engineering.
+        tag: SCIE
+      - item: Dongsuk O, Sangwoo Kang(Corresponding Author), Jungyun Seo, (2015), “An Iterative Approach to Subgraph-Based Word Sense Disambiguation Using Word2Vec,” Cognitive Science, (in Korean)
+        tag: KCI
+      - item: Sunjae Kwon, Juae Kim, Sangwoo Kang(Corresponding Author), Jungyun Seo, (2016), “Korean cQA system using Multiple Machine Learning Method,” Cognitive Science, (in Korean)
+        tag: KCI
+      - item: Soyun Jeong, Youngmin Park, Sangwoo Kang(Corresponding Author), Jungyun Seo (2015), “Entity Linking For Tweets Using User Model and Real-time News Stream,” Cognitive Science, Vol.26 No.4, pp.377-394. (in Korean)
+        tag: KCI
+      - item: Sangwoo Kang, Harksoo Kim, Hyun-Kyu Kang, Jungyun Seo (2014), “Lightweight Morphological Analysis Model for Smart Home Applications Based on Natural Language Interfaces,” International Journal of Distributed Sensor Networks, Vol.2014, Article ID 570634, pp.53-56.
+        tag: SCIE
+      - item: Sangwoo Kang, Jungyun Seo (2014), “Two-phase reanalysis model for understanding user intention,” Pattern Recognition Letters, Vol.42, pp.35-39.
+        tag: SCIE
+      - item: Sangwoo Kang, Ji-Hwan Kim, Jungyun Seo (2014), “Post-error Correction in Automatic Speech Recognition Using Discourse Information,” Advances in Electrical and Computer Engineering, Vol.14 No.2, pp.53-56.
+        tag: SCIE
+      - item: Sangwoo Kang, Youngjoong Ko, Jungyun Seo (2013), “Hierarchical speech-act classification for discourse analysis,” Pattern Recognition Letters, 34(10), pp.1119-1124.
+        tag: SCIE
+      - item: Sangwoo Kang, Youngjoong Ko, Jungyun Seo (2013), “A dialogue management system using a corpus-based framework and a dynamic dialogue transition model,” AI communications, Vol.26 No.2, pp.145-159.
+        tag: SCIE
+      - item: 'Sangwoo Kang, Jungyun Seo (2013), “An Integrated Model using Re-training Method for the Understanding of User Intention in a Dialogue System,” Journal of Korean Institute of Information Scientists and Engineers: Software and Applications, Vol.40 No.9, pp.519-525. (in Korean)'
+        tag: KCI
+      - item: Sangwoo Kang, Jeachul Yang, Jungyun Seo (2013), “Light Weight Korean Morphological Analysis Using Left-longest-match-preference model and Hidden Markov Model,” Cognitive Science, Vol24. No2., pp.95-109. (in Korean)
+        tag: KCI
+      - item: Sangwoo Kang, Youngjoong Ko, Jungyun Seo (2012), “Generating Effective Responses for a Plan-based Dialogue System in Human-Robot Interaction,” INFORMATION - An International Interdisciplinary Journal, International Information Institute, Vol.15 No.2, pp.949-960.
+        tag: SCIE
+      - item: Sangwoo Kang, Harksoo Kim, Jungyun Seo (2010), “A reliable multidomain model for speech act classification,” Pattern Recognition Letters, Vol.31 No.1, pp.71-74.
+        tag: SCIE
+      - item: Sangwoo Kang, Hongmin Park, Jungyun Seo (2010), “Emotion Classification of User's Utterance for a Dialogue System,” Cognitive Science, Vol.21 No.4, pp.459-480. (in Korean)
+        tag: KCI
+      - item: Choong-Nyoung Seon, Sangwoo Kang(Corresponding Author), Jungyun Seo (2010), “Automatic Recognition and Normalization System of Korean Time Expression using the individual time units,” Cognitive Science, Vol.21 No.4, pp.447-458. (in Korean)
+        tag: KCI
+      - item: Sangwoo kang, Sungwook Lee, Jungyun Seo (2009), “Dialogue Strategies to Overcome Speech Recognition Errors in Form-Filling Dialogue,” Lecture Note in Artificial Intelligence,” Vol.5459, pp.282-289.
+        tag: 
+      - item: Sangwoo Kang, Youngjoong Ko, Jungyun Seo (2008), “Using Plan Recognition and a Discourse Stack for Effective Response Generation in a Dialogue System,” Cognitive Science, Vol.19 No.2, pp.107-123. (in Korean)
+        tag: KCI
+      - item: Sangwoo Kang, Songwook Lee, Jungyun Seo (2006), “Dialogue Strategies to Overcome Speech Recognition Errors in Form-Filling Dialogue,” Cognitive Science, Vol.17 No.2, pp.139-150. (in Korean)
+        tag: KCI
+
+    - title: Conference Publications
+      list:
+      - item: Chi-Yun Song, Sung-Min Yang, Sangwoo Kang, “Named-entity Recognition Using bidirectional LSTM CRFs”, Proceedings of the 29th Annual Conference on Human and Cognitive Language Technology. (in Korean)
+      - item: Jeaseong Park, Sangwon Lee, Jeana Jang, Sagnwoo Kang, “Time Expression Analysis For Reminder Applications Using Speech Reconition”, Proceedings of the 29th Annual Conference on Human and Cognitive Language Technology. (in Korean)
+      - item: Jungyun Seo, Myungwan Koo, Sangwoo Kang, Youngmin Park (2015), “Dialogue Platform for Interactive Personal Assistant Software,” Proceedings of 6th International Workshop on Spoken Dialogue Systems.
+      - item: Soyun Jeong, Youngmin Park, Sangwoo Kang, Jungyun Seo (2015), “Improved Entity Linking with User History and News Articles,” Proceedings of The 29th Pacific Asia Conference on Language, Information and Computation.
+      - item: Dongsuk O, Donghyun Yoo, Sangwoo Kang, Jungyun Seo (2015), “Knowledge Representation and Management for Multi-domain Dialog System,” Proceedings of Korea Computer Congress. (in Korean)
+      - item: Myungho Noh, Youngmin Park, Sangwoo Kang, Jungyun Seo (2015), “Object Recognition using Lexico-syntactic Pattern and Wikipedia,” Proceedings of Korea Computer Congress. (in Korean)
+      - item: Youngmin Park, Sangwoo Kang, Jungyun Seo (2014), “Title Named Entity Recognition using Wikipedia and Abbreviation Generation,” Proceedings of International Conference on Big Data and Smart Computing.
+      - item: Woochul Lee, Sangwoo Kang, Jungyun Seo (2014), “A Reciprocal Method between Named Entity Recognition and Relation Extraction by using Distant Supervision,” Proceedings of Korea Computer Congress. (in Korean)
+      - item: Yejin Kim, Youngmin Park, Sangwoo Kang, Sangkeon Jung, Cheongjae Lee, Jungyun Seo (2014), “Post-Processing of Speech Recognition Using Phonological Variables and Improved Edit-distance,” Proceedings of the 26th Annual Conference on Human and Cognitive Language Technology. (in Korean)
+      - item: Soonpil Jang, Youngmin Park, Sangwoo Kang, Myoungwan Koo, Jungyun Seo, Harksoo Kim, Youngjoong Ko (2013), “A Dialogue Platform for an Interactive Personal Assistant Software,” Proceedings of Fall Conference on Korean Institute of Information Scientists and Engineers. (in Korean)
+      - item: Soonpil Jang, Sangwoo Kang, Jungyun Seo (2103), “Dialogue Ontology Model for Multi Domain Dialogue Management,” Proceedings of Fall Conference on Korean Institute of Information Scientists and Engineers. (in Korean)
+      - item: Youngmin Park, Sangwoo Kang, Byoungkyu Yoo, Jungyun Seo (2013), “Title Named Entity Recognition using Wikipedia and Making Acronym,” Proceedings of Korea Computer Congress. (in Korean)
+      - item: Sangwoo Kang, Jeachul Yang, Harksoo Kim, Jungyun Seo (2012), “Morpheme Segmentation and Part-of-Speech Tagging Using Restricted Resources,” Proceedings of the 24th Annual Conference on Human and Cognitive Language Technology. (in Korean)
+      - item: Ilhyeon Song, Sangwoo Kang, Jungyun Seo (2011), “Topic based Question-Answering System using Real-Time Search Terms,” Proceedings of the 23th Annual Conference on Human and Cognitive Language Technology. (in Korean)
+      - item: Kyungsun Min, Sangwoo Kang, Jungyun Seo (2011), “Augmentative and Alternative Communication System Using Decision Tree,” Proceedings of 5th Conference on Human and Computer Interaction. (in Korean)
+      - item: Juhee Kim, Sangwoo. Kang, Choong-Nyoung Seon, Jungyun Seo (2010), “A Reranking Model for ASR Post Correction Using Discourse Information,” Proceedings of the 2nd International Conference on Internet.
+      - item: Juhee Kim, Sangwoo. Kang, Choong-Nyoung Seon, Jungyun Seo (2010), “Post correct of Speech Recognition using Discourse Information,” Proceedings of the 22th Annual Conference on Human and Cognitive Language Technology. (in Korean)
+      - item: Wonseok choi, Sangwoo. Kang, Seon, Jungyun Seo (2010), “Multi-domain Dialog Framework Using Domain Switching Strategy,” Proceedings of the 22th Annual Conference on Human and Cognitive Language Technology. (in Korean)
+      - item: Sangwoo Kang, Youngjoong Ko and Jungyun Seo (2008), “A Plan-based Dialogue Model Using a Discouse Stack for Intelligent Human-Robot Interface Development," Proceedings of the 7th International Conference on Advanced Language Processing and Web Information Technology, pp. 162-167.
+      - item: Sangwoo Kang, Hongmin Park, Youngjoong Ko, Jungyun Seo (2008), “The Corpus-based Dialogue System Using a Dialogue Transition Network and a Similarity Measure Method,” Proceedings of the 20th Annual Conference on Human and Cognitive Language Technology. (in Korean)
+      - item: Sangwoo kang, Donghyun Kim, Harksoo Kim, Jungyun Seo (2007), “Speech Act Classification Based on Individual Statistical Models in a Multi-Domain,” Proceedings of the 16th IEEE International Symposium on Robot and Human Interactive Communication.
+      - item: Sangwoo Kang, Hyoung Jeong, Jarksoo Kim, Jungyun Seo (2006), “The Design of a Multi-domain Dialogue System Based on a Form-based Model and Statistical Classification Techniques,” Proceedings of the 3rd International Conference on Ubiquitous Robots and Ambient Intelligence.
+      - item: Sangwoo Kang, Jungyun Seo (2007), “A Design of an Interaction Manager for Efficient Multi-Modal Dialogue Management in a Robot Platform,” Proceedings of the 4th CIR-COE Joint Workshop On Robot Technologies for Human-Robot Coexistence.
+      - item: Sangwoo Kang, Youngjoong Ko and Jungyun Seo (2006), "A Plan-based Model for Efficient Response Generation in Dialogue User Interface," Proceedings of the 3rd CIR-COE Joint Workshop On Robot Technologies for Human-Robot Coexistence.
+      - item: Sangwoo Kang, jungyun Seo (2006), “A Design of Korean Case-frames for a Practical Dialogue System,” Proceedings of Conference on Korean Cognitive Science society. (in Korean)
+      - item: Sangwoo Kang, Youngjoong Ko, Jungyun Seo (2006), “Using Plan Recognition and a Discourse Stack for Efficient Response Generation in a Dialogue System,” Proceedings of the 18th Annual Conference on Human and Cognitive Language Technology. (in Korean)
+      - item: Sangwoo Kang, Youngjoong Ko and Jungyun Seo (2006), “A Design of a Plan-based Model for intelligent Human-Robot Development,” the 6th Workshop for Robot Development Technologies. (in Korean)
+      - item: Sangwoo Kang, SongWook Lee, Jungyun Seo (2005), “Sub-dialogue Generating Strategy Considering Speech Recognition Errors in a Plan-based Dialogue Model,” Proceedings of 5th Conference on Human and Computer Interaction. (in Korean)

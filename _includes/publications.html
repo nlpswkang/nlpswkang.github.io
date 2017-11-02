@@ -1,0 +1,47 @@
+<section id="publications">
+  <div class="row">
+
+    <div class="three columns header-col">
+      <h1>
+        <span>Publications</span>
+      </h1>
+    </div>
+
+    <div class="nine columns main-col">
+
+      {% for publications in site.data.publications %}
+      <div class="row item">
+
+        <div class="twelve columns">
+
+          <h5>{{ publications.title }}</h5>
+
+          <!-- <p> -->
+            <ul>
+              {% for list in publications.list %}
+              
+                <!-- <li> -->
+                  <p>
+                {% if list.tag %}
+                <!-- <dt> -->
+                [<b>{{ list.tag }}</b>]
+                <!-- </dt> -->
+                {% endif %} {{ list.item }}</p>
+                <!-- </li> -->
+              
+              {% endfor %}
+            </ul>
+          <!-- </p> -->
+
+        </div>
+
+      </div>
+      <!-- item end -->
+      {% endfor %}
+
+    </div>
+    <!-- main-col end -->
+
+  </div>
+  <!-- End Education -->
+</section>

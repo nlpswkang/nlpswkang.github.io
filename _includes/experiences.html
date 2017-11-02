@@ -1,0 +1,47 @@
+<section id="experiences">
+  <div class="row education">
+
+    <div class="three columns header-col">
+      <h1>
+        <span>Experiences</span>
+      </h1>
+    </div>
+
+    <div class="nine columns main-col">
+      {% for experience in site.data.experience %}
+
+      <div class="row item">
+
+        <div class="twelve columns">
+
+          <h4>{{ experience.position }}</h4>
+          <p class="info">
+            {{ experience.school }}
+            <span>&bull;</span>
+            {{ experience.department }}
+            <span>&bull;</span>
+            <em class="date">{{ experience.date }}</em>
+          </p>
+
+          <!-- <p>
+            <ul class="disc">
+              {% for detail in research.detail %}
+              <dd>
+                <li>{{ detail.item }}</li>
+              </dd>
+              {% endfor %}
+            </ul>
+          </p> -->
+
+        </div>
+
+      </div>
+      <!-- item end -->
+      {% endfor %}
+
+    </div>
+    <!-- main-col end -->
+
+  </div>
+  <!-- End Education -->
+</section>

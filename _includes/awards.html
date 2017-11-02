@@ -1,0 +1,36 @@
+<section id="professional">
+  <div class="row">
+
+    <div class="three columns main-col text-center">
+      <h1>
+        <!-- <span>Awards</span> -->
+      </h1>
+    </div>
+
+    <!-- <hr class="six columns centered"> -->
+
+    <div class="nine columns main-col">
+        <h2>Awards</h2>
+        {% for awards in site.data.awards %}
+
+        <div class="row">
+
+          <div class="twelve columns">
+            <ul>
+            <li>
+              {{ awards.title }}
+            </li>
+          </ul>
+          </div>
+
+        </div>
+        <!-- item end -->
+        {% endfor %}
+  
+
+    </div>
+    <!-- main-col end -->
+
+  </div>
+  <!-- End Education -->
+</section>

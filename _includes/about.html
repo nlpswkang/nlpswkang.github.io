@@ -1,0 +1,45 @@
+<section id="about">
+  <div class="row">
+    <div class="three columns">
+
+      <img src="images/{{ site.data.about.profile }}" alt="" />
+      <br>
+      <br>
+
+    </div>
+
+    <div class="nine columns main-col">
+
+      <h2>{{ site.data.about.name }}</h2>
+
+      <hr/>
+
+      <h2>Bio Sketch</h2>
+
+      <p>{{ site.data.about.bio }}</p>
+
+      <div class="row">
+
+        <div class="columns contact-details">
+
+          <h2>Contact Details</h2>
+          <p class="address">
+            {{ site.data.about.address }}
+            <br> {{ site.data.about.phone }}
+            <br> {{ site.data.about.email }}
+          </p>
+
+        </div>
+
+        <div class="columns download">
+          <p>
+            <a href="#" class="button">
+              <i class="fa fa-download"></i>Download Resume</a>
+          </p>
+        </div>
+
+      </div>
+    </div>
+    <!-- <hr> -->
+  </div>
+</section>

@@ -1,0 +1,16 @@
+<nav id="nav-wrap">
+
+  <a class="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
+  <a class="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
+
+  <ul id="nav" class="nav">
+    {% for nav in site.nav %}
+    <li {% if nav.name=='Home' %}class="current" {% endif %}>
+      <a class="smoothscroll" href="{{nav.href}}">{{nav.name}}</a>
+    </li>
+    {% endfor %}
+  </ul>
+  <!-- end #nav -->
+
+</nav>
+<!-- end #nav-wrap -->

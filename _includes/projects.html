@@ -1,0 +1,35 @@
+
+<section id="projects">
+  <div class="row education">
+
+    <div class="three columns header-col">
+      <h1>
+        <span>Projects</span>
+      </h1>
+    </div>
+
+    <div class="nine columns main-col">
+      <ul class="disc">
+        {% for projects in site.data.projects %}
+
+        <div class="row item">
+
+          <!-- <div class="twelve columns"> -->
+
+            <li>
+              <h6>{{ projects.item }}</h6>
+            </li>
+
+          <!-- </div> -->
+
+        </div>
+        <!-- item end -->
+        {% endfor %}
+      </ul>
+
+    </div>
+    <!-- main-col end -->
+
+  </div>
+  <!-- End Education -->
+</section>
