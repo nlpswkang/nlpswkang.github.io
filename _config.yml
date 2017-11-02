@@ -7,7 +7,7 @@ update: 'oct, 2017'
 nav:
 - name: 'Home'
   href: '#home'
-- name: 'Member'
+- name: 'Members'
   href: '#about'
 - name: 'Research'
   href: '#research'
