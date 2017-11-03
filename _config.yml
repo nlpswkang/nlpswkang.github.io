@@ -39,7 +39,7 @@ data:
   about:
     name: 'Sangwoo Kang, Ph.d.'
     profile: 'profile_swkang_1.jpg'
-    bio: He is an assistant professor in <b>the Department of Software at Gachon University</b> since September 2016. He got his Ph.D in Computer Science at Sogang University, where he was also a Research Fellow Professor. His specialty is <b>Natural Language Processing</b>, and he is interested in spoken dialogue interface, information retrieval, text mining, opinion mining, big data, and UI/UX. His recent focus has been in applying <b>Deep Learning</b> techniques to his research. Currently, he is leading <b>Intelligent Software & Natural Language Processing Laboratory</b> at Gachon University.
+    bio: He is an assistant professor in <b>the Department of Software at Gachon University</b> since September 2016. He got his Ph.D. in Computer Science at Sogang University, where he was also a Research Fellow Professor. His specialty is <b>Natural Language Processing</b>, and he is interested in spoken dialogue interface, information retrieval, text mining, opinion mining, big data, and UI/UX. His recent focus has been in applying <b>Deep Learning</b> techniques to his research. Currently, he is leading <b>Intelligent Software & Natural Language Processing Laboratory</b> at Gachon University.
     address: '#430 Main Library Building<br>1342 Seongnam-daero, Sujeong-gu, Seongnam-si, Gyeonggi-do<br>13120, Republic of Korea'
     phone: +82-031-750-8669
     email: swkang@gachon.ac.kr
@@ -100,7 +100,7 @@ data:
   - item: 'Web Programing : 2017 spring'
 
   students: # 학생정보수정
-  - name: 'Kyung-Chul Cho, MS Student (Candidate)'
+  - name: 'Kyung-Chul Cho, Prospective MS Student'
     profile: 'image.jpg'
     interests: NLP
     contact: aaa@gc.gachon.ac.kr
