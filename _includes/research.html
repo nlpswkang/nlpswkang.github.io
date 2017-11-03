@@ -18,17 +18,19 @@
 
           <h5>{{ research.title }}</h5>
 
-          <p>
-            <!-- <ul class="disc"> -->
-              {% for detail in research.detail %}
+          <!-- <p> -->
+          <ul class="disc">
+            {% for detail in research.detail %}
+            <div class="row item">
               <!-- <dd> -->
-                <li>
-                  {{ detail.item }}
-                </li>
+              <li>
+                {{ detail.item }}
+              </li>
               <!-- </dd> -->
-              {% endfor %}
-            <!-- </ul> -->
-          </p>
+            </div>
+            {% endfor %}
+          </ul>
+          <!-- </p> -->
 
         </div>
 
