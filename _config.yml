@@ -106,8 +106,9 @@ data:
     contact: cjf9028@daum.net
 
   projects:
-  - item: 2017 ~ Present, Principal Investigator, “유사도 측정 기법을 이용한 FAQ 시스템 개발,” Supported by Hyundai Motor.
-  - item: 2017 ~ Present, Principal Investigator, “영어사전용 식별 및 중의어 해소개발 기술,” Supported by Citrus EduTech.
+  - item: 2018 ~ Present, Principal Investigator, “서비스 로봇을 위한 정보검색 질의응답(IR-QA) 시스템 개발,” Supported by Hyundai Motor.
+  - item: 2017 ~ 2018, Principal Investigator, “유사도 측정 기법을 이용한 FAQ 시스템 개발,” Supported by Hyundai Motor.
+  - item: 2017 ~ 2018, Principal Investigator, “영어사전용 식별 및 중의어 해소개발 기술,” Supported by Citrus EduTech.
   - item: 2017 ~ Present, Principal Investigator, “사용자 적응형 어체 변환을 위한 형태소 합성 기술 연구,” Supported by Sogang University.
   - item: 2016 ~ Present, Principal Investigator, “Development of Intelligent Dialogue Interface for The IoT Environment,” Supported by National Research Foundation of Korea.
   - item: 2016 ~ Present, Co-Principal Investigator, “Development of Distant Speech Recognition and Multi- Task Dialog Processing Technologies for In-Door Conversational Robots,” Supported by Ministry of Commerce, Industry and Energy.
@@ -130,6 +131,9 @@ data:
   - item: 2014, Co-Principal Investigator, “Spoken Dialogue Interface Technique for multi domain,” SK Telecom.
 
   patents:
+  - item: 2018.09.04, Sangwoo Kang, “기계학습 모델을 이용한 자연어 생성 시스템, 방법, 및 컴퓨터 판독가능매체,” Domestic Patent
+  - item: 2018.09.04, Sangwoo Kang, “개체명 인식 모델 생성 장치 및 방법,” Domestic Patent
+  - item: 2018.04.03, Sangwoo Kang, “개체명 인식시스템, 방법, 및 컴퓨터 판독가능매체,” Domestic Patent
   - item: 2017.04.03, Sangwoo Kang et al., “지식베이스를 이용한 개체명 인식 코퍼스 생성 및 방법,” Domestic Patent
   - item: 2017.03.06, Sangwoo Kang et al., “문서 감정 분류용 딥러닝 인코딩 장치 및 방법,” Domestic Patent
   - item: 2017.02.27, Sangwoo Kang et al., “마이크로 블로그의 개체명 링킹 시스템,” Domestic Patent
@@ -141,19 +145,21 @@ data:
   publications:
     - title: Journal Publications
       list:
-      - item: Sangwoo Kang, (2017), “Graph-Based Word Sense Disambiguation Using Iterative Approach,”Journal of Korean Institute of Next Generation Computing. (in Korean)
+      - item: Youngmin Park, Sangwoo Kang(Corresponding Author), Jungyun Seo (2018), "An Efficient Framework for Development of Task-Oriented Dialog Systems in a Smart Home Environment," Seonsors, Vol.18(5).
+        tag: SCIE
+      - item: Sangwoo Kang (2017), “Graph-Based Word Sense Disambiguation Using Iterative Approach,”Journal of Korean Institute of Next Generation Computing," (in Korean)
         tag: KCI
-      - item: 'Sunjea Kwon, Juae Kim, Sangwoo Kang(Corresponding Author), Jungyun Seo, (2017), “An Attention Method-based Deep Learning Encoder for the Sentiment Classification of Documents,” Journal of Korean Institute of Information Scientists and Engineers: Software and Applications. (in Korean)'
+      - item: 'Sunjea Kwon, Juae Kim, Sangwoo Kang(Corresponding Author), Jungyun Seo (2017) “An Attention Method-based Deep Learning Encoder for the Sentiment Classification of Documents,” Journal of Korean Institute of Information Scientists and Engineers: Software and Applications. (in Korean)'
         tag: KCI
-      - item: Soyoon Jeong, Youngmin Park, Sangwoo Kang(Corresponding Author), Jungyun Seo, (2016) Entity linking for Tweets using user model and real-time news stream,” Cognitive Science. (in Korean)
+      - item: Soyoon Jeong, Youngmin Park, Sangwoo Kang(Corresponding Author), Jungyun Seo (2016) Entity linking for Tweets using user model and real-time news stream,” Cognitive Science. (in Korean)
         tag: KCI
-      - item: Youngmin Park, Sangwoo Kang(Corresponding Author), Jungyun Seo, (2016), “A Generation of a Corpus for Named-entity Recognition Using Knowledge Bases,” Cognitive Science. (in Korean)
+      - item: Youngmin Park, Sangwoo Kang(Corresponding Author), Jungyun Seo (2016), “A Generation of a Corpus for Named-entity Recognition Using Knowledge Bases,” Cognitive Science. (in Korean)
         tag: KCI
       - item: Youngmin Park, Sangwoo Kang(corresponding author), Jungyun Seo (2016), “Information Extraction Using Distant Supervision and Semantic Similarities,” Advances in Electrical and Computer Engineering.
         tag: SCIE
-      - item: Dongsuk O, Sangwoo Kang(Corresponding Author), Jungyun Seo, (2015), “An Iterative Approach to Subgraph-Based Word Sense Disambiguation Using Word2Vec,” Cognitive Science, (in Korean)
+      - item: Dongsuk O, Sangwoo Kang(Corresponding Author), Jungyun Seo (2015), “An Iterative Approach to Subgraph-Based Word Sense Disambiguation Using Word2Vec,” Cognitive Science, (in Korean)
         tag: KCI
-      - item: Sunjae Kwon, Juae Kim, Sangwoo Kang(Corresponding Author), Jungyun Seo, (2016), “Korean cQA system using Multiple Machine Learning Method,” Cognitive Science, (in Korean)
+      - item: Sunjae Kwon, Juae Kim, Sangwoo Kang(Corresponding Author), Jungyun Seo (2016), “Korean cQA system using Multiple Machine Learning Method,” Cognitive Science, (in Korean)
         tag: KCI
       - item: Soyun Jeong, Youngmin Park, Sangwoo Kang(Corresponding Author), Jungyun Seo (2015), “Entity Linking For Tweets Using User Model and Real-time News Stream,” Cognitive Science, Vol.26 No.4, pp.377-394. (in Korean)
         tag: KCI
