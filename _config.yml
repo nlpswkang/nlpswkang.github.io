@@ -157,9 +157,9 @@ data:
         tag: KCI
       - item: Youngmin Park, Sangwoo Kang(corresponding author), Jungyun Seo (2016), “Information Extraction Using Distant Supervision and Semantic Similarities,” Advances in Electrical and Computer Engineering.
         tag: SCIE
-      - item: Dongsuk O, Sangwoo Kang(Corresponding Author), Jungyun Seo (2015), “An Iterative Approach to Subgraph-Based Word Sense Disambiguation Using Word2Vec,” Cognitive Science, (in Korean)
-        tag: KCI
       - item: Sunjae Kwon, Juae Kim, Sangwoo Kang(Corresponding Author), Jungyun Seo (2016), “Korean cQA system using Multiple Machine Learning Method,” Cognitive Science, (in Korean)
+        tag: KCI
+      - item: Dongsuk O, Sangwoo Kang(Corresponding Author), Jungyun Seo (2015), “An Iterative Approach to Subgraph-Based Word Sense Disambiguation Using Word2Vec,” Cognitive Science, (in Korean)
         tag: KCI
       - item: Soyun Jeong, Youngmin Park, Sangwoo Kang(Corresponding Author), Jungyun Seo (2015), “Entity Linking For Tweets Using User Model and Real-time News Stream,” Cognitive Science, Vol.26 No.4, pp.377-394. (in Korean)
         tag: KCI
