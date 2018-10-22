@@ -143,52 +143,52 @@ data:
   - item: 2014, Sangwoo Kang et al., “Voice Recognition Method Using Machine Learning,” International Patent Pending (USA)
 
   publications:
-    - title: Journal Publications
-      list:
-      - item: Youngmin Park, Sangwoo Kang(Corresponding Author), Jungyun Seo (2018), "An Efficient Framework for Development of Task-Oriented Dialog Systems in a Smart Home Environment," Seonsors, Vol.18(5).
-        tag: SCIE
-      - item: Sangwoo Kang (2017), “Graph-Based Word Sense Disambiguation Using Iterative Approach,”Journal of Korean Institute of Next Generation Computing," (in Korean)
-        tag: KCI
-      - item: 'Sunjea Kwon, Juae Kim, Sangwoo Kang(Corresponding Author), Jungyun Seo (2017) “An Attention Method-based Deep Learning Encoder for the Sentiment Classification of Documents,” Journal of Korean Institute of Information Scientists and Engineers: Software and Applications. (in Korean)'
-        tag: KCI
-      - item: Soyoon Jeong, Youngmin Park, Sangwoo Kang(Corresponding Author), Jungyun Seo (2016) Entity linking for Tweets using user model and real-time news stream,” Cognitive Science. (in Korean)
-        tag: KCI
-      - item: Youngmin Park, Sangwoo Kang(Corresponding Author), Jungyun Seo (2016), “A Generation of a Corpus for Named-entity Recognition Using Knowledge Bases,” Cognitive Science. (in Korean)
-        tag: KCI
-      - item: Youngmin Park, Sangwoo Kang(corresponding author), Jungyun Seo (2016), “Information Extraction Using Distant Supervision and Semantic Similarities,” Advances in Electrical and Computer Engineering.
-        tag: SCIE
-      - item: Sunjae Kwon, Juae Kim, Sangwoo Kang(Corresponding Author), Jungyun Seo (2016), “Korean cQA system using Multiple Machine Learning Method,” Cognitive Science, (in Korean)
-        tag: KCI
-      - item: Dongsuk O, Sangwoo Kang(Corresponding Author), Jungyun Seo (2015), “An Iterative Approach to Subgraph-Based Word Sense Disambiguation Using Word2Vec,” Cognitive Science, (in Korean)
-        tag: KCI
-      - item: Soyun Jeong, Youngmin Park, Sangwoo Kang(Corresponding Author), Jungyun Seo (2015), “Entity Linking For Tweets Using User Model and Real-time News Stream,” Cognitive Science, Vol.26 No.4, pp.377-394. (in Korean)
-        tag: KCI
-      - item: Sangwoo Kang, Harksoo Kim, Hyun-Kyu Kang, Jungyun Seo (2014), “Lightweight Morphological Analysis Model for Smart Home Applications Based on Natural Language Interfaces,” International Journal of Distributed Sensor Networks, Vol.2014, Article ID 570634, pp.53-56.
-        tag: SCIE
-      - item: Sangwoo Kang, Jungyun Seo (2014), “Two-phase reanalysis model for understanding user intention,” Pattern Recognition Letters, Vol.42, pp.35-39.
-        tag: SCIE
-      - item: Sangwoo Kang, Ji-Hwan Kim, Jungyun Seo (2014), “Post-error Correction in Automatic Speech Recognition Using Discourse Information,” Advances in Electrical and Computer Engineering, Vol.14 No.2, pp.53-56.
-        tag: SCIE
-      - item: Sangwoo Kang, Youngjoong Ko, Jungyun Seo (2013), “Hierarchical speech-act classification for discourse analysis,” Pattern Recognition Letters, 34(10), pp.1119-1124.
-        tag: SCIE
-      - item: Sangwoo Kang, Youngjoong Ko, Jungyun Seo (2013), “A dialogue management system using a corpus-based framework and a dynamic dialogue transition model,” AI communications, Vol.26 No.2, pp.145-159.
-        tag: SCIE
-      - item: 'Sangwoo Kang, Jungyun Seo (2013), “An Integrated Model using Re-training Method for the Understanding of User Intention in a Dialogue System,” Journal of Korean Institute of Information Scientists and Engineers: Software and Applications, Vol.40 No.9, pp.519-525. (in Korean)'
-        tag: KCI
-      - item: Sangwoo Kang, Jeachul Yang, Jungyun Seo (2013), “Light Weight Korean Morphological Analysis Using Left-longest-match-preference model and Hidden Markov Model,” Cognitive Science, Vol24. No2., pp.95-109. (in Korean)
-        tag: KCI
-      - item: Sangwoo Kang, Youngjoong Ko, Jungyun Seo (2012), “Generating Effective Responses for a Plan-based Dialogue System in Human-Robot Interaction,” INFORMATION - An International Interdisciplinary Journal, International Information Institute, Vol.15 No.2, pp.949-960.
-        tag: SCIE
-      - item: Sangwoo Kang, Harksoo Kim, Jungyun Seo (2010), “A reliable multidomain model for speech act classification,” Pattern Recognition Letters, Vol.31 No.1, pp.71-74.
-        tag: SCIE
-      - item: Sangwoo Kang, Hongmin Park, Jungyun Seo (2010), “Emotion Classification of User's Utterance for a Dialogue System,” Cognitive Science, Vol.21 No.4, pp.459-480. (in Korean)
-        tag: KCI
-      - item: Choong-Nyoung Seon, Sangwoo Kang(Corresponding Author), Jungyun Seo (2010), “Automatic Recognition and Normalization System of Korean Time Expression using the individual time units,” Cognitive Science, Vol.21 No.4, pp.447-458. (in Korean)
-        tag: KCI
-      - item: Sangwoo kang, Sungwook Lee, Jungyun Seo (2009), “Dialogue Strategies to Overcome Speech Recognition Errors in Form-Filling Dialogue,” Lecture Note in Artificial Intelligence,” Vol.5459, pp.282-289.
-        tag: 
-      - item: Sangwoo Kang, Youngjoong Ko, Jungyun Seo (2008), “Using Plan Recognition and a Discourse Stack for Effective Response Generation in a Dialogue System,” Cognitive Science, Vol.19 No.2, pp.107-123. (in Korean)
-        tag: KCI
-      - item: Sangwoo Kang, Songwook Lee, Jungyun Seo (2006), “Dialogue Strategies to Overcome Speech Recognition Errors in Form-Filling Dialogue,” Cognitive Science, Vol.17 No.2, pp.139-150. (in Korean)
-        tag: KCI
-        
+  - title: Journal Publications
+    list:
+    - item: Youngmin Park, Sangwoo Kang(Corresponding Author), Jungyun Seo (2018), "An Efficient Framework for Development of Task-Oriented Dialog Systems in a Smart Home Environment," Seonsors, Vol.18(5).
+      tag: SCIE
+    - item: Sangwoo Kang (2017), “Graph-Based Word Sense Disambiguation Using Iterative Approach,”Journal of Korean Institute of Next Generation Computing," (in Korean)
+      tag: KCI
+    - item: 'Sunjea Kwon, Juae Kim, Sangwoo Kang(Corresponding Author), Jungyun Seo (2017) “An Attention Method-based Deep Learning Encoder for the Sentiment Classification of Documents,” Journal of Korean Institute of Information Scientists and Engineers: Software and Applications. (in Korean)'
+      tag: KCI
+    - item: Soyoon Jeong, Youngmin Park, Sangwoo Kang(Corresponding Author), Jungyun Seo (2016) Entity linking for Tweets using user model and real-time news stream,” Cognitive Science. (in Korean)
+      tag: KCI
+    - item: Youngmin Park, Sangwoo Kang(Corresponding Author), Jungyun Seo (2016), “A Generation of a Corpus for Named-entity Recognition Using Knowledge Bases,” Cognitive Science. (in Korean)
+      tag: KCI
+    - item: Youngmin Park, Sangwoo Kang(corresponding author), Jungyun Seo (2016), “Information Extraction Using Distant Supervision and Semantic Similarities,” Advances in Electrical and Computer Engineering.
+      tag: SCIE
+    - item: Sunjae Kwon, Juae Kim, Sangwoo Kang(Corresponding Author), Jungyun Seo (2016), “Korean cQA system using Multiple Machine Learning Method,” Cognitive Science, (in Korean)
+      tag: KCI
+    - item: Dongsuk O, Sangwoo Kang(Corresponding Author), Jungyun Seo (2015), “An Iterative Approach to Subgraph-Based Word Sense Disambiguation Using Word2Vec,” Cognitive Science, (in Korean)
+      tag: KCI
+    - item: Soyun Jeong, Youngmin Park, Sangwoo Kang(Corresponding Author), Jungyun Seo (2015), “Entity Linking For Tweets Using User Model and Real-time News Stream,” Cognitive Science, Vol.26 No.4, pp.377-394. (in Korean)
+      tag: KCI
+    - item: Sangwoo Kang, Harksoo Kim, Hyun-Kyu Kang, Jungyun Seo (2014), “Lightweight Morphological Analysis Model for Smart Home Applications Based on Natural Language Interfaces,” International Journal of Distributed Sensor Networks, Vol.2014, Article ID 570634, pp.53-56.
+      tag: SCIE
+    - item: Sangwoo Kang, Jungyun Seo (2014), “Two-phase reanalysis model for understanding user intention,” Pattern Recognition Letters, Vol.42, pp.35-39.
+      tag: SCIE
+    - item: Sangwoo Kang, Ji-Hwan Kim, Jungyun Seo (2014), “Post-error Correction in Automatic Speech Recognition Using Discourse Information,” Advances in Electrical and Computer Engineering, Vol.14 No.2, pp.53-56.
+      tag: SCIE
+    - item: Sangwoo Kang, Youngjoong Ko, Jungyun Seo (2013), “Hierarchical speech-act classification for discourse analysis,” Pattern Recognition Letters, 34(10), pp.1119-1124.
+      tag: SCIE
+    - item: Sangwoo Kang, Youngjoong Ko, Jungyun Seo (2013), “A dialogue management system using a corpus-based framework and a dynamic dialogue transition model,” AI communications, Vol.26 No.2, pp.145-159.
+      tag: SCIE
+    - item: 'Sangwoo Kang, Jungyun Seo (2013), “An Integrated Model using Re-training Method for the Understanding of User Intention in a Dialogue System,” Journal of Korean Institute of Information Scientists and Engineers: Software and Applications, Vol.40 No.9, pp.519-525. (in Korean)'
+      tag: KCI
+    - item: Sangwoo Kang, Jeachul Yang, Jungyun Seo (2013), “Light Weight Korean Morphological Analysis Using Left-longest-match-preference model and Hidden Markov Model,” Cognitive Science, Vol24. No2., pp.95-109. (in Korean)
+      tag: KCI
+    - item: Sangwoo Kang, Youngjoong Ko, Jungyun Seo (2012), “Generating Effective Responses for a Plan-based Dialogue System in Human-Robot Interaction,” INFORMATION - An International Interdisciplinary Journal, International Information Institute, Vol.15 No.2, pp.949-960.
+      tag: SCIE
+    - item: Sangwoo Kang, Harksoo Kim, Jungyun Seo (2010), “A reliable multidomain model for speech act classification,” Pattern Recognition Letters, Vol.31 No.1, pp.71-74.
+      tag: SCIE
+    - item: Sangwoo Kang, Hongmin Park, Jungyun Seo (2010), “Emotion Classification of User's Utterance for a Dialogue System,” Cognitive Science, Vol.21 No.4, pp.459-480. (in Korean)
+      tag: KCI
+    - item: Choong-Nyoung Seon, Sangwoo Kang(Corresponding Author), Jungyun Seo (2010), “Automatic Recognition and Normalization System of Korean Time Expression using the individual time units,” Cognitive Science, Vol.21 No.4, pp.447-458. (in Korean)
+      tag: KCI
+    - item: Sangwoo kang, Sungwook Lee, Jungyun Seo (2009), “Dialogue Strategies to Overcome Speech Recognition Errors in Form-Filling Dialogue,” Lecture Note in Artificial Intelligence,” Vol.5459, pp.282-289.
+      tag: 
+    - item: Sangwoo Kang, Youngjoong Ko, Jungyun Seo (2008), “Using Plan Recognition and a Discourse Stack for Effective Response Generation in a Dialogue System,” Cognitive Science, Vol.19 No.2, pp.107-123. (in Korean)
+      tag: KCI
+    - item: Sangwoo Kang, Songwook Lee, Jungyun Seo (2006), “Dialogue Strategies to Overcome Speech Recognition Errors in Form-Filling Dialogue,” Cognitive Science, Vol.17 No.2, pp.139-150. (in Korean)
+      tag: KCI
+
