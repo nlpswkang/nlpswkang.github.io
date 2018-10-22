@@ -191,34 +191,4 @@ data:
         tag: KCI
       - item: Sangwoo Kang, Songwook Lee, Jungyun Seo (2006), “Dialogue Strategies to Overcome Speech Recognition Errors in Form-Filling Dialogue,” Cognitive Science, Vol.17 No.2, pp.139-150. (in Korean)
         tag: KCI
-
-    - title: Conference Publications
-      list:
-      - item: Chi-Yun Song, Sung-Min Yang, Sangwoo Kang, “Named-entity Recognition Using bidirectional LSTM CRFs”, Proceedings of the 29th Annual Conference on Human and Cognitive Language Technology. (in Korean)
-      - item: Jeaseong Park, Sangwon Lee, Jeana Jang, Sagnwoo Kang, “Time Expression Analysis For Reminder Applications Using Speech Reconition”, Proceedings of the 29th Annual Conference on Human and Cognitive Language Technology. (in Korean)
-      - item: Jungyun Seo, Myungwan Koo, Sangwoo Kang, Youngmin Park (2015), “Dialogue Platform for Interactive Personal Assistant Software,” Proceedings of 6th International Workshop on Spoken Dialogue Systems.
-      - item: Soyun Jeong, Youngmin Park, Sangwoo Kang, Jungyun Seo (2015), “Improved Entity Linking with User History and News Articles,” Proceedings of The 29th Pacific Asia Conference on Language, Information and Computation.
-      - item: Dongsuk O, Donghyun Yoo, Sangwoo Kang, Jungyun Seo (2015), “Knowledge Representation and Management for Multi-domain Dialog System,” Proceedings of Korea Computer Congress. (in Korean)
-      - item: Myungho Noh, Youngmin Park, Sangwoo Kang, Jungyun Seo (2015), “Object Recognition using Lexico-syntactic Pattern and Wikipedia,” Proceedings of Korea Computer Congress. (in Korean)
-      - item: Youngmin Park, Sangwoo Kang, Jungyun Seo (2014), “Title Named Entity Recognition using Wikipedia and Abbreviation Generation,” Proceedings of International Conference on Big Data and Smart Computing.
-      - item: Woochul Lee, Sangwoo Kang, Jungyun Seo (2014), “A Reciprocal Method between Named Entity Recognition and Relation Extraction by using Distant Supervision,” Proceedings of Korea Computer Congress. (in Korean)
-      - item: Yejin Kim, Youngmin Park, Sangwoo Kang, Sangkeon Jung, Cheongjae Lee, Jungyun Seo (2014), “Post-Processing of Speech Recognition Using Phonological Variables and Improved Edit-distance,” Proceedings of the 26th Annual Conference on Human and Cognitive Language Technology. (in Korean)
-      - item: Soonpil Jang, Youngmin Park, Sangwoo Kang, Myoungwan Koo, Jungyun Seo, Harksoo Kim, Youngjoong Ko (2013), “A Dialogue Platform for an Interactive Personal Assistant Software,” Proceedings of Fall Conference on Korean Institute of Information Scientists and Engineers. (in Korean)
-      - item: Soonpil Jang, Sangwoo Kang, Jungyun Seo (2103), “Dialogue Ontology Model for Multi Domain Dialogue Management,” Proceedings of Fall Conference on Korean Institute of Information Scientists and Engineers. (in Korean)
-      - item: Youngmin Park, Sangwoo Kang, Byoungkyu Yoo, Jungyun Seo (2013), “Title Named Entity Recognition using Wikipedia and Making Acronym,” Proceedings of Korea Computer Congress. (in Korean)
-      - item: Sangwoo Kang, Jeachul Yang, Harksoo Kim, Jungyun Seo (2012), “Morpheme Segmentation and Part-of-Speech Tagging Using Restricted Resources,” Proceedings of the 24th Annual Conference on Human and Cognitive Language Technology. (in Korean)
-      - item: Ilhyeon Song, Sangwoo Kang, Jungyun Seo (2011), “Topic based Question-Answering System using Real-Time Search Terms,” Proceedings of the 23th Annual Conference on Human and Cognitive Language Technology. (in Korean)
-      - item: Kyungsun Min, Sangwoo Kang, Jungyun Seo (2011), “Augmentative and Alternative Communication System Using Decision Tree,” Proceedings of 5th Conference on Human and Computer Interaction. (in Korean)
-      - item: Juhee Kim, Sangwoo. Kang, Choong-Nyoung Seon, Jungyun Seo (2010), “A Reranking Model for ASR Post Correction Using Discourse Information,” Proceedings of the 2nd International Conference on Internet.
-      - item: Juhee Kim, Sangwoo. Kang, Choong-Nyoung Seon, Jungyun Seo (2010), “Post correct of Speech Recognition using Discourse Information,” Proceedings of the 22th Annual Conference on Human and Cognitive Language Technology. (in Korean)
-      - item: Wonseok choi, Sangwoo. Kang, Seon, Jungyun Seo (2010), “Multi-domain Dialog Framework Using Domain Switching Strategy,” Proceedings of the 22th Annual Conference on Human and Cognitive Language Technology. (in Korean)
-      - item: Sangwoo Kang, Youngjoong Ko and Jungyun Seo (2008), “A Plan-based Dialogue Model Using a Discouse Stack for Intelligent Human-Robot Interface Development," Proceedings of the 7th International Conference on Advanced Language Processing and Web Information Technology, pp. 162-167.
-      - item: Sangwoo Kang, Hongmin Park, Youngjoong Ko, Jungyun Seo (2008), “The Corpus-based Dialogue System Using a Dialogue Transition Network and a Similarity Measure Method,” Proceedings of the 20th Annual Conference on Human and Cognitive Language Technology. (in Korean)
-      - item: Sangwoo kang, Donghyun Kim, Harksoo Kim, Jungyun Seo (2007), “Speech Act Classification Based on Individual Statistical Models in a Multi-Domain,” Proceedings of the 16th IEEE International Symposium on Robot and Human Interactive Communication.
-      - item: Sangwoo Kang, Hyoung Jeong, Jarksoo Kim, Jungyun Seo (2006), “The Design of a Multi-domain Dialogue System Based on a Form-based Model and Statistical Classification Techniques,” Proceedings of the 3rd International Conference on Ubiquitous Robots and Ambient Intelligence.
-      - item: Sangwoo Kang, Jungyun Seo (2007), “A Design of an Interaction Manager for Efficient Multi-Modal Dialogue Management in a Robot Platform,” Proceedings of the 4th CIR-COE Joint Workshop On Robot Technologies for Human-Robot Coexistence.
-      - item: Sangwoo Kang, Youngjoong Ko and Jungyun Seo (2006), "A Plan-based Model for Efficient Response Generation in Dialogue User Interface," Proceedings of the 3rd CIR-COE Joint Workshop On Robot Technologies for Human-Robot Coexistence.
-      - item: Sangwoo Kang, jungyun Seo (2006), “A Design of Korean Case-frames for a Practical Dialogue System,” Proceedings of Conference on Korean Cognitive Science society. (in Korean)
-      - item: Sangwoo Kang, Youngjoong Ko, Jungyun Seo (2006), “Using Plan Recognition and a Discourse Stack for Efficient Response Generation in a Dialogue System,” Proceedings of the 18th Annual Conference on Human and Cognitive Language Technology. (in Korean)
-      - item: Sangwoo Kang, Youngjoong Ko and Jungyun Seo (2006), “A Design of a Plan-based Model for intelligent Human-Robot Development,” the 6th Workshop for Robot Development Technologies. (in Korean)
-      - item: Sangwoo Kang, SongWook Lee, Jungyun Seo (2005), “Sub-dialogue Generating Strategy Considering Speech Recognition Errors in a Plan-based Dialogue Model,” Proceedings of 5th Conference on Human and Computer Interaction. (in Korean)
+        
