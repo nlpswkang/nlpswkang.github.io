@@ -52,16 +52,17 @@ data:
     - item: Speech Acts / Action Classification
     - item: Name-entity Recognition
     - item: Post Correction for Automatic Speech Recognition
-  - title: Text Classification / Information Retrieval
+  - title: Question and Answering System
     detail:
-    - item: Text Classification Based on Unsupervised Learning / Supervised Learning
-    - item: Clustering
-    - item: Semantic Search with Wikipedia
+    - item: Multi-modal Question and Answering
+  - title: Machine Transtlaion
+    detail:
+    - item: Neural Machine Translation
   - title: Opinion Mining
     detail:
-    - item: Comparison Mining
+    - item: Suggestion Mining
     - item: Sentimental Classification
- 
+     
   experience:
   - position: Assistant Professor
     department: Software
