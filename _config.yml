@@ -88,9 +88,11 @@ data:
     - item: Korea Computer Congress (2015 ~)
   - title: 'Journal Reviewer'
     detail:
-    - item: Korean Institute of Information Scientists and Engineers (2014 ~)
-    - item: Korean Society of Cognitive Science (2014 ~)
-
+    - item: Pattern Recognition Letters (2009 ~)
+    - item: AI Communications (2013 ~)
+    - item: IEEE Access (2018 ~)
+    - item: Sensors (2018 ~)
+    
   awards:
   - title: 2017 국어정보처리 시스템 경진대회 대상 (문화체육관광부 장관상)
 
