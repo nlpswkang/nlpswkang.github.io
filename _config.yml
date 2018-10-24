@@ -54,10 +54,12 @@ data:
     - item: Post Correction for Automatic Speech Recognition
   - title: Question and Answering System
     detail:
-    - item: Multi-modal Question and Answering
+    - item: Information Retrieval based Question and Answering
+    - item: Knowledge based Question and Answering
+    - item: Machine Reading Comprehension
   - title: Machine Transtlaion
     detail:
-    - item: Neural Machine Translation
+    - item: Multi-modal Neural Machine Translation
   - title: Opinion Mining
     detail:
     - item: Suggestion Mining
