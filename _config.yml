@@ -99,10 +99,10 @@ data:
   - title: 2017 국어정보처리 시스템 경진대회 대상 (문화체육관광부 장관상)
 
   teaching:
-  - item: 'Robotics: 2017 autumn, 2016 autumn'
-  - item: 'Computer Security: 2017 autumn, 2016 autumn'
-  - item: 'Data Mining : 2017 spring'
-  - item: 'Web Programing : 2017 spring'
+  - item: 'Robotics'
+  - item: 'Computer Security'
+  - item: 'Data Mining'
+  - item: 'Web Programing'
 
   students: # 학생정보수정
   - name: 'Kyung-Chul Cho, Prospective MS Student'
