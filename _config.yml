@@ -105,18 +105,20 @@ data:
   - item: 'Web Programing'
 
   students: # 학생정보수정
-  - name: 'Kyung-Chul Cho, Prospective MS Student'
+  - name: 'Kyung-Chul Cho, MS Student'
     profile: 'image.jpg'
     interests: NLP
     contact: cjf9028@daum.net
 
   projects:
+  - item: 2019 ~ Present, Principal Investigator, “Multi-modal Neural Machine Translation using Dependency Parsing,” Supported by National Research Foundation of Korea.
+  - item: 2019 ~ Present, Principal Investigator, “사용자 적응형 어체 변환을 위한 데이터 구축 및 의미 표현 기술 연구,” Supported by Sogang University.
   - item: 2018 ~ Present, Principal Investigator, “서비스 로봇을 위한 정보검색 질의응답(IR-QA) 시스템 개발,” Supported by Hyundai Motor.
   - item: 2017 ~ 2018, Principal Investigator, “유사도 측정 기법을 이용한 FAQ 시스템 개발,” Supported by Hyundai Motor.
   - item: 2017 ~ 2018, Principal Investigator, “영어사전용 식별 및 중의어 해소개발 기술,” Supported by Citrus EduTech.
-  - item: 2017 ~ Present, Principal Investigator, “사용자 적응형 어체 변환을 위한 형태소 합성 기술 연구,” Supported by Sogang University.
+  - item: 2017 ~ 2018, Principal Investigator, “사용자 적응형 어체 변환을 위한 형태소 합성 기술 연구,” Supported by Sogang University.
   - item: 2016 ~ Present, Principal Investigator, “Development of Intelligent Dialogue Interface for The IoT Environment,” Supported by National Research Foundation of Korea.
-  - item: 2016 ~ Present, Co-Principal Investigator, “Development of Distant Speech Recognition and Multi- Task Dialog Processing Technologies for In-Door Conversational Robots,” Supported by Ministry of Commerce, Industry and Energy.
+  - item: 2016 ~ 2018, Co-Principal Investigator, “Development of Distant Speech Recognition and Multi-Task Dialog Processing Technologies for In-Door Conversational Robots,” Supported by Ministry of Commerce, Industry and Energy.
   - item: 2013 ~ 2016, Principal Investigator, “The Technology Development of Dialogue Management for Virtual Personal Assistant Services of Smart devices,” Supported by National Research Foundation of Korea.
   - item: 2012 ~ 2015, Co-Principal Investigator (Chief Developer), “The Original Technology Development of Interactive Intelligent Personal Assistant Software for the Information Service on multiple domains,” Supported by Ministry of Knowledge Economy.
   - item: 2009 ~ 2013, Co-Principal Investigator (Chief Developer), “Developing Spoken Dialogue Interface Technologies or Intelligent Talking Companion Robots by Integrating Voice/Image Information and Workbench toolkits,” Supported by Ministry of Knowledge Economy.
@@ -150,7 +152,7 @@ data:
   publications:
   - title: Journal Publications
     list:
-    - item: Youngmin Park, Sangwoo Kang(Corresponding Author), (2018), "Natural Language Generation using Dependency Tree Decoding for Spoken Dialog Systems," Access.
+    - item: Youngmin Park, Sangwoo Kang(Corresponding Author), (2018), "Natural Language Generation using Dependency Tree Decoding for Spoken Dialog Systems," Access, Vol.7(1).
       tag: SCIE
     - item: Youngmin Park, Sangwoo Kang(Corresponding Author), Jungyun Seo (2018), "An Efficient Framework for Development of Task-Oriented Dialog Systems in a Smart Home Environment," Seonsors, Vol.18(5).
       tag: SCIE
