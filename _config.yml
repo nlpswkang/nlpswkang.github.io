@@ -97,6 +97,7 @@ data:
     
   awards:
   - title: 2017 국어정보처리 시스템 경진대회 대상 (문화체육관광부 장관상)
+  - title: 2019 국어정보처리 시스템 경진대회 동상 (국립국어원장상)
 
   teaching:
   - item: 'Robotics'
@@ -105,11 +106,9 @@ data:
   - item: 'Web Programing'
 
   students: # 학생정보수정
-  - name: 'Kyung-Chul Cho, MS Student'
-    profile: 'image.jpg'
-    interests: NLP
-    contact: cjf9028@daum.net
-
+  - name: 'Kyungchul Cho, master'S student'
+  - name: 'Gyunyop Kim, master's student'
+    
   projects:
   - item: 2019 ~ Present, Principal Investigator, “Multi-modal Neural Machine Translation using Dependency Parsing,” Supported by National Research Foundation of Korea.
   - item: 2019 ~ Present, Principal Investigator, “사용자 적응형 어체 변환을 위한 데이터 구축 및 의미 표현 기술 연구,” Supported by Sogang University.
