@@ -151,7 +151,7 @@ data:
   publications:
   - title: Journal Publications
     list:
-    - item: Yoonseok Heo, Sangwoo Kang(Corresponding Author), Jungyun Seo, (2020), "Hybrid sense classification method for large-scale word sense disambiguation," IEEE Access, Vol.8(1).
+    - item: Yoonseok Heo, Sangwoo Kang(Corresponding Author), Jungyun Seo, (2020), "Hybrid Sense Classification Method for Large-scale Word Sense Disambiguation," IEEE Access, Vol.8(1).
       tag: SCIE
     - item: Yunyeong Yang, Sangwoo Kang(Corresponding Author), Jungyun Seo, (2020), "Improved Machine Reading Comprehension Using Data Validation For Weakly Labeled Data," IEEE Access, Vol.8(1).
       tag: SCIE
@@ -203,4 +203,4 @@ data:
       tag: KCI
     - item: Sangwoo Kang, Songwook Lee, Jungyun Seo (2006), “Dialogue Strategies to Overcome Speech Recognition Errors in Form-Filling Dialogue,” Cognitive Science, Vol.17 No.2, pp.139-150. (in Korean)
       tag: KCI
-
+      
