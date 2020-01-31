@@ -108,7 +108,7 @@ data:
   students: # 학생정보수정
   - name: 'Kyungchul Cho, master'S student'
   - name: 'Gyunyop Kim, master's student'
-    
+  
   projects:
   - item: 2019 ~ Present, Principal Investigator, “Multi-modal Neural Machine Translation using Dependency Parsing,” Supported by National Research Foundation of Korea.
   - item: 2019 ~ Present, Principal Investigator, “사용자 적응형 어체 변환을 위한 데이터 구축 및 의미 표현 기술 연구,” Supported by Sogang University.
