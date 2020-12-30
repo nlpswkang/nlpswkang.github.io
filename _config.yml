@@ -108,12 +108,6 @@ data:
   - item: 'Introduction of Artificial Intelligence'
   - item: 'Programming Basics'
 
-<!--
-  students: # 학생정보수정
-  - name: 'Gyunyop Kim, MS student'
-  - name: 'Sora Lee, MS student'
-  - name: 'Eunseok Yoo, MS student'
--->
 
   projects:
   - item: 2020 ~ Present, Co-Principal Investigator, “Development of Smart Signage Technology for Automatic Classification of Untact Examination and patient status Based on AI,” Supported by IITP.
