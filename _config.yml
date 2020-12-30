@@ -108,12 +108,13 @@ data:
   - item: 'Introduction of Artificial Intelligence'
   - item: 'Programming Basics'
 
-  students: # 학생정보수정
-  - name: 'Gyunyop Kim, MS student'
-  - name: 'Sora Lee, MS student'
-  - name: 'Eunseok Yoo, MS student'
+//  students: # 학생정보수정
+//  - name: 'Gyunyop Kim, MS student'
+//  - name: 'Sora Lee, MS student'
+//  - name: 'Eunseok Yoo, MS student'
   
   projects:
+  - item: 2020 ~ Present, Co-Principal Investigator, “Development of Smart Signage Technology for Automatic Classification of Untact Examination and patient status Based on AI,” Supported by IITP.
   - item: 2019 ~ Present, Principal Investigator, “Multi-modal Neural Machine Translation using Dependency Parsing,” Supported by National Research Foundation of Korea.
   - item: 2019 ~ Present, Principal Investigator, “사용자 적응형 어체 변환을 위한 데이터 구축 및 의미 표현 기술 연구,” Supported by Sogang University.
   - item: 2018 ~ 2019, Principal Investigator, “서비스 로봇을 위한 정보검색 질의응답(IR-QA) 시스템 개발,” Supported by Hyundai Motor.
@@ -155,6 +156,10 @@ data:
   publications:
   - title: Journal Publications
     list:
+    - item: Yunyeong Yang, Sangwoo Kang(Corresponding Author), Jungyun Seo, (2020), "Common Sense-Based Reasoning Using External Knowledge for Question Answering," IEEE Access, Vol.8(1).
+      tag: SCIE
+    - item: Yoonseok Heo, Sangwoo Kang(Corresponding Author), Jungyun Seo, (2020), “Korean Natural Language Generation Using LSTM-based Language Model for Task-Oriented Spoken Dialogue System,” Journal of Korean Institute of Next Generation Comoputing, (in Korean)
+      tag: KCI
     - item: Yoonseok Heo, Sangwoo Kang(Corresponding Author), Jungyun Seo, (2020), "Hybrid Sense Classification Method for Large-scale Word Sense Disambiguation," IEEE Access, Vol.8(1).
       tag: SCIE
     - item: Yunyeong Yang, Sangwoo Kang(Corresponding Author), Jungyun Seo, (2020), "Improved Machine Reading Comprehension Using Data Validation For Weakly Labeled Data," IEEE Access, Vol.8(1).
@@ -167,7 +172,7 @@ data:
       tag: SCIE
     - item: Sangwoo Kang (2017), “Graph-Based Word Sense Disambiguation Using Iterative Approach,”Journal of Korean Institute of Next Generation Computing," (in Korean)
       tag: KCI
-    - item: 'Sunjea Kwon, Juae Kim, Sangwoo Kang(Corresponding Author), Jungyun Seo (2017) “An Attention Method-based Deep Learning Encoder for the Sentiment Classification of Documents,” Journal of Korean Institute of Information Scientists and Engineers: Software and Applications. (in Korean)'
+    - item: Sunjea Kwon, Juae Kim, Sangwoo Kang(Corresponding Author), Jungyun Seo (2017) “An Attention Method-based Deep Learning Encoder for the Sentiment Classification of Documents,” Journal of Korean Institute of Information Scientists and Engineers: Software and Applications. (in Korean)'
       tag: KCI
     - item: Youngmin Park, Yejin Kim, Sangwoo Kang(Corresponding Author), Jungyun Seo (2016), “Automatic Training Corpus Generation Method of Named Entity Recognition Using Knowledge-Bases," Cognitive Science, (in Korean)
       tag: KCI
