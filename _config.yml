@@ -108,11 +108,13 @@ data:
   - item: 'Introduction of Artificial Intelligence'
   - item: 'Programming Basics'
 
-//  students: # 학생정보수정
-//  - name: 'Gyunyop Kim, MS student'
-//  - name: 'Sora Lee, MS student'
-//  - name: 'Eunseok Yoo, MS student'
-  
+<!--
+  students: # 학생정보수정
+  - name: 'Gyunyop Kim, MS student'
+  - name: 'Sora Lee, MS student'
+  - name: 'Eunseok Yoo, MS student'
+-->
+
   projects:
   - item: 2020 ~ Present, Co-Principal Investigator, “Development of Smart Signage Technology for Automatic Classification of Untact Examination and patient status Based on AI,” Supported by IITP.
   - item: 2019 ~ Present, Principal Investigator, “Multi-modal Neural Machine Translation using Dependency Parsing,” Supported by National Research Foundation of Korea.
@@ -194,7 +196,7 @@ data:
       tag: SCIE
     - item: Sangwoo Kang, Youngjoong Ko, Jungyun Seo (2013), “A dialogue management system using a corpus-based framework and a dynamic dialogue transition model,” AI communications, Vol.26 No.2, pp.145-159.
       tag: SCIE
-    - item: 'Sangwoo Kang, Jungyun Seo (2013), “An Integrated Model using Re-training Method for the Understanding of User Intention in a Dialogue System,” Journal of Korean Institute of Information Scientists and Engineers: Software and Applications, Vol.40 No.9, pp.519-525. (in Korean)'
+    - item: Sangwoo Kang, Jungyun Seo (2013), “An Integrated Model using Re-training Method for the Understanding of User Intention in a Dialogue System,” Journal of Korean Institute of Information Scientists and Engineers: Software and Applications, Vol.40 No.9, pp.519-525. (in Korean)
       tag: KCI
     - item: Sangwoo Kang, Jeachul Yang, Jungyun Seo (2013), “Light Weight Korean Morphological Analysis Using Left-longest-match-preference model and Hidden Markov Model,” Cognitive Science, Vol24. No2., pp.95-109. (in Korean)
       tag: KCI
